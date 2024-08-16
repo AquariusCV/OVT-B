@@ -2,7 +2,7 @@
 OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking
 
 
-### Tadaset Link.
+### Dataset Link.
 
 
 
